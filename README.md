@@ -2,7 +2,7 @@
 
 A powerful Python-based translator that **automatically detects mixed languages** in your input and translates everything to your target language among 245+ supported languages.
 
-## 🆕 NEW FEATURE: Mixed Language Detection
+##  NEW FEATURE: Mixed Language Detection
 
 The translator now **automatically detects when you use multiple languages** in the same sentence!
 
@@ -11,12 +11,12 @@ The translator now **automatically detects when you use multiple languages** in 
 Input: "Hello friend. Bonjour mon ami. Hola amigo."
 
 LANGUAGE DETECTION:
-🌍 MIXED LANGUAGES DETECTED (3 languages found):
+ MIXED LANGUAGES DETECTED (3 languages found):
    1. French (fr)
    2. English (en)
    3. Spanish (es)
 
-✨ All languages will be translated to: german
+ All languages will be translated to: german
 
 1. Make sure you have Python installed (Python 3.7+)
 
@@ -55,7 +55,7 @@ Enter target language code: de
 Analyzing input text...
 
 LANGUAGE DETECTION:
-🌍 MIXED LANGUAGES DETECTED (3 languages found):
+MIXED LANGUAGES DETECTED (3 languages found):
    1. French (fr)
    2. English (en)
    3. Spanish (es)
@@ -72,7 +72,7 @@ Enter text to translate: I love programming. मुझे कोडिंग प
 Enter target language code: fr
 
 LANGUAGE DETECTION:
-🌍 MIXED LANGUAGES DETECTED (3 languages found):
+MIXED LANGUAGES DETECTED (3 languages found):
    1. Hindi (hi)
    2. English (en)
    3. Spanish (es)
@@ -197,10 +197,10 @@ Returns:
 
 ## Tips for Best Results
 
-✅ **Use complete sentences** with proper grammar  
-✅ **Switch to Whole Text Mode** for Indian languages (type `mode`)  
-✅ **Accept mixed output** for technical terms (normal behavior)  
-✅ **Use Windows Terminal** for better Unicode support  
+Use complete sentences** with proper grammar  
+Switch to Whole Text Mode** for Indian languages (type `mode`)  
+Accept mixed output** for technical terms (normal behavior)  
+Use Windows Terminal** for better Unicode support  
 
 ---
 
