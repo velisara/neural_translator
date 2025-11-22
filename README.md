@@ -144,7 +144,7 @@ Type `list` in the translator or run `python show_languages.py` to see all.
 ## Files
 
 ### Core Application:
-- **`main.py`** - Main translator application ⭐ **RUN THIS**
+- **`main.py`** - Main translator application  **RUN THIS**
 - **`translator.py`** - Translation engine with mixed language detection
 
 ### Optional:
@@ -240,4 +240,4 @@ Open source - feel free to use and modify!
 python main.py
 ```
 
-Supports **245 languages** with automatic mixed language detection! 🌍✨
+Supports **245 languages** with automatic mixed language detection!
